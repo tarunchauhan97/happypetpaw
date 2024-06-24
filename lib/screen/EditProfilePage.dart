@@ -51,15 +51,15 @@ class _EditProfilePage extends State<EditProfilePage> {
   }
 
   TextEditingController _textEditingControllerName =
-      TextEditingController(text: "Chloe B");
+      TextEditingController(text: "Tarun Singh");
   TextEditingController _textEditingControllerLastName =
-      TextEditingController(text: "Bird");
+      TextEditingController(text: "Chauhan");
   TextEditingController _textEditingControllerEmail =
-      TextEditingController(text: "chloe_bird@gmail.com");
+      TextEditingController(text: "tarun@gmail.com");
   TextEditingController _textEditingControllerGender =
       TextEditingController(text: "Male");
   TextEditingController _textEditingControllerMobile =
-      TextEditingController(text: "8759632256");
+      TextEditingController(text: "9306500147");
 
   @override
   Widget build(BuildContext context) {

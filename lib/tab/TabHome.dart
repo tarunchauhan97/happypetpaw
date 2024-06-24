@@ -274,7 +274,7 @@ class _TabHome extends State<TabHome> {
                       fontFamily: Constants.fontsFamily),
                   children: <TextSpan>[
                     new TextSpan(
-                        text: " Mike,",
+                        text: " Tarun,",
                         style: TextStyle(
                             color: accentColors,
                             fontWeight: FontWeight.w600,

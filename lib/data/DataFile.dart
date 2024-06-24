@@ -80,8 +80,8 @@ class DataFile {
 
   static ProfileModel getProfileModel() {
     ProfileModel mainModel = new ProfileModel();
-    mainModel.email = "chloe_bird@gamil.com";
-    mainModel.name = "Chloe B Bird";
+    mainModel.email = "tarun@gamil.com";
+    mainModel.name = "Tarun Singh";
     mainModel.image = "hugh.png";
     return mainModel;
   }
@@ -92,17 +92,17 @@ class DataFile {
     AddressModel mainModel = new AddressModel();
 
     mainModel.id = 1;
-    mainModel.name = "Chloe B Bird";
-    mainModel.phoneNumber = "+1(368)68 000 068";
-    mainModel.location = "87  Great North Road,ALTON";
+    mainModel.name = "Tarun Singh Bird";
+    mainModel.phoneNumber = "9306500147";
+    mainModel.location = "Gurgaon Haryana";
     mainModel.type = "Home";
     subCatList.add(mainModel);
 
     mainModel = new AddressModel();
     mainModel.id = 2;
-    mainModel.name = "Rich P. Jeffery";
-    mainModel.phoneNumber = "+1(368)68 000 068";
-    mainModel.location = "4310 Clover Drive Colorado Springs, CO 80903";
+    mainModel.name = "Mahi Dhoni";
+    mainModel.phoneNumber = "+913368368 000 ";
+    mainModel.location = "Ranchi Jharkhand";
     mainModel.type = "Company";
     subCatList.add(mainModel);
 
@@ -139,20 +139,20 @@ class DataFile {
 
     CardModel mainModel = new CardModel();
     mainModel.id = 1;
-    mainModel.email = "chloe_bird@gamil.com";
+    mainModel.email = "ravi@gamil.com";
     mainModel.cardNo = "2342 22** **** **00";
     mainModel.cVV = "***";
     mainModel.expDate = "06/23";
-    mainModel.name = "Claudla T.Reyes";
+    mainModel.name = "Lohit T.Reyes";
     mainModel.image = "visa.png";
 
     subCatList.add(mainModel);
 
     mainModel = new CardModel();
     mainModel.id = 2;
-    mainModel.email = "chloe_bird@gamil.com";
+    mainModel.email = "manan@gamil.com";
     mainModel.cardNo = "2342 22** **** **00";
-    mainModel.name = "Claudla T.Reyes";
+    mainModel.name = "Manan T.Reyes";
     mainModel.cVV = "***";
     mainModel.expDate = "06/23";
     mainModel.image = "mastercard.png";
@@ -610,7 +610,7 @@ class DataFile {
 
     ReviewModel mainModel = new ReviewModel();
     mainModel.id = 1;
-    mainModel.name = "Soedirman";
+    mainModel.name = "Yash";
     mainModel.image = "hugh.png";
     mainModel.desc =
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
@@ -619,7 +619,7 @@ class DataFile {
 
     mainModel = new ReviewModel();
     mainModel.id = 2;
-    mainModel.name = "Aisyah";
+    mainModel.name = "Mohit";
     mainModel.image = "hugh.png";
     mainModel.desc =
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
@@ -629,7 +629,7 @@ class DataFile {
     mainModel = new ReviewModel();
     mainModel.id = 3;
     mainModel.image = "hugh.png";
-    mainModel.name = "Jock Boerden";
+    mainModel.name = "Aneela";
     mainModel.desc =
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
     mainModel.review = 2;
