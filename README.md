@@ -12,7 +12,6 @@ This application is Built in Flutter 3.22.0
 Works Fine.
 
 
-
 ## 📱 Screenshots
 Style
 <table>
