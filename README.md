@@ -7,10 +7,8 @@ Happy Pet Paw is for Pet Lovers
 
 This application is Built in Flutter 3.22.0
 
-'
 # Flutter 3.22.1 Updated.
 
-'
 
 
 
@@ -171,5 +169,6 @@ And Many More screen inside the Project
 MIT License
 
 Copyright (c) 2024 Tarun Singh Chauhan
+
 
 
